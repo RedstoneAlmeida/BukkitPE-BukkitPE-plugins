@@ -1,0 +1,5 @@
+name: ServerProtector
+author: Taki21
+version: 0.1
+api: 1.13.2
+main: SP\Main
