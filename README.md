@@ -6,3 +6,6 @@ BukkitPE plugins
 - ServerProtector ✔
 - PurePerms ✔
 - PureChat ✔
+
+# PluginLoader
+- DevTools BukkitPE ✔
